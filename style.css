@@ -838,7 +838,7 @@ text-align: center;
   }
   .headerclass::before {
    
-    height: 70%;
+    height: 75%;
    
   }
   .logoContent{
@@ -846,11 +846,11 @@ text-align: center;
   }
   .navigation{
     gap: 1.5rem;
-    margin-top: -3rem;
+    margin-top: -2rem;
   }
 .headerButtons-class{
   margin-left: 7rem;
-  margin-top: -4rem;
+  margin-top: -2rem;
   margin-bottom: 1rem;
 }
 .informationClass {
